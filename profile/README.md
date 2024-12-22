@@ -4,10 +4,9 @@
 
 ### Meta: Asentar bases en proyectos cortos. Aprender nuevas tecnologías con proyectos un poco más desafiantes.
 
-| **Nombre**   | **Repositorio(s)**                                                    |
-| ------------ | --------------------------------------------------------------------- |
-| To-Do     | [Link](https://github.com/)     |
-|       |   |
+| **Nombre** | **Repositorio(s)**                                                    | **Fechas**               |
+|------------|-----------------------------------------------------------------------|--------------------------|
+| To-Do      | [Link](https://github.com/Proyectos-25/to-do)                         | 20/12/24 - 21/12/24  |
 
 ---
 > [!NOTE]
